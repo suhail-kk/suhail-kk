@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suhail k k</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Lead engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhail-kk&label=Profile%20views&color=0e75b6&style=flat" alt="suhail-kk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suhail-kk" alt="suhail-kk" /></a> </p>
 
-- 🔭 I’m currently working at **Anj America**
+- 🔭 I’m currently working at *HCLTech**
 
 - 👨‍💻 All of my projects are available at [https://suhailkk.web.app/](https://suhailkk.web.app/)
 
